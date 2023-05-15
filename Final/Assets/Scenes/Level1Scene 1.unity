@@ -15578,6 +15578,10 @@ PrefabInstance:
       propertyPath: hurtLayer
       value: 
       objectReference: {fileID: 138451860}
+    - target: {fileID: 1827146465983627008, guid: cb4baf3fe6614f1459b53ee35de9350b, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4180961477805772581, guid: cb4baf3fe6614f1459b53ee35de9350b, type: 3}
       propertyPath: m_TagString
       value: MainCamera

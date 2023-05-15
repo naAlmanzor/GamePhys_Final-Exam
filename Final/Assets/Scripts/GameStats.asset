@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wallSpeed: 2
   playerSpeed: 10
-  playerSprintMultiplier: 1.5
+  playerSprintMultiplier: 1
   cameraSensitivity: 5
-  inversionSpeed: 1
+  inversionSpeed: 2

@@ -85,7 +85,7 @@ public class PlayerController : MonoBehaviour
             
         } else if(!isSwitched) {
             rb.velocity = gravity;
-            if(rb.rotation.eulerAngles.z > 0) {
+            if(rb.rotation.eulerAngles.z > 180) {
                 rb.transform.Rotate(0f, 0f, +gameStats.inversionSpeed);
             }
         }
